@@ -1,0 +1,473 @@
+20200422-09:28:10: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-09:28:10: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-09:31:35: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-09:31:35: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-09:31:46: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:52307
+20200422-09:31:46: Acceptor heartbeat set to 30 seconds
+20200422-09:31:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-09:31:46: Received logon
+20200422-09:31:46: Responding to Logon request
+20200422-09:31:59: Disconnecting: Encountered END_OF_STREAM
+20200422-09:32:00: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:52331
+20200422-09:32:00: Acceptor heartbeat set to 5 seconds
+20200422-09:32:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-09:32:00: Received logon
+20200422-09:32:00: Responding to Logon request
+20200422-09:32:00: Disconnecting: Encountered END_OF_STREAM
+20200422-11:10:47: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-11:10:47: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-11:11:00: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:55940
+20200422-11:11:00: Acceptor heartbeat set to 30 seconds
+20200422-11:11:00: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200422-11:11:06: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:55962
+20200422-11:11:06: Acceptor heartbeat set to 5 seconds
+20200422-11:11:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-11:11:06: Received logon
+20200422-11:11:06: Responding to Logon request
+20200422-11:11:07: Disconnecting: Encountered END_OF_STREAM
+20200422-11:16:11: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-11:16:11: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-11:16:40: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-11:16:40: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-11:16:46: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:56240
+20200422-11:16:46: Acceptor heartbeat set to 30 seconds
+20200422-11:16:46: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200422-11:16:52: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:56262
+20200422-11:16:52: Acceptor heartbeat set to 5 seconds
+20200422-11:16:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-11:16:52: Received logon
+20200422-11:16:52: Responding to Logon request
+20200422-11:16:53: Disconnecting: Encountered END_OF_STREAM
+20200422-11:17:40: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-11:17:40: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-11:17:44: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:56329
+20200422-11:17:44: Acceptor heartbeat set to 30 seconds
+20200422-11:17:44: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200422-11:19:55: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-11:19:55: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-11:52:07: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-11:52:07: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-11:53:59: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-11:53:59: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-11:54:07: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:49841
+20200422-11:54:07: Acceptor heartbeat set to 30 seconds
+20200422-11:54:07: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200422-11:54:13: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:49863
+20200422-11:54:13: Acceptor heartbeat set to 5 seconds
+20200422-11:54:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-11:54:13: Received logon
+20200422-11:54:13: Responding to Logon request
+20200422-11:54:14: Disconnecting: Encountered END_OF_STREAM
+20200422-12:18:37: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200422-12:18:37: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200422-12:18:50: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:50397
+20200422-12:18:50: Acceptor heartbeat set to 30 seconds
+20200422-12:18:50: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200422-12:18:56: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:50419
+20200422-12:18:56: Acceptor heartbeat set to 5 seconds
+20200422-12:18:56: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-12:18:56: Received logon
+20200422-12:18:56: Responding to Logon request
+20200422-12:19:29: Disconnecting: Socket exception (/127.0.0.1:50419): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200422-12:20:15: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:50473
+20200422-12:20:15: Acceptor heartbeat set to 30 seconds
+20200422-12:20:15: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200422-12:20:20: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:50496
+20200422-12:20:20: Acceptor heartbeat set to 5 seconds
+20200422-12:20:20: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-12:20:21: Received logon
+20200422-12:20:21: Responding to Logon request
+20200422-12:20:25: Rejecting invalid message: quickfix.FieldException: Required tag missing, field=60: 8=FIX.4.49=15535=D34=249=MY-INITIATOR-CLIENT152=20200422-12:20:25.02256=MY-ACCEPTOR-SERVICE11=0.6138556313792741Client115=EUR38=500000040=254=155=EUR/USD59=010=167
+20200422-12:20:25: Reject sent for Message 2: Required tag missing, field=60:60
+20200422-12:20:29: Sent test request TEST
+20200422-12:20:35: Rejecting invalid message: quickfix.FieldException: Required tag missing, field=60: 8=FIX.4.49=15535=D34=549=MY-INITIATOR-CLIENT152=20200422-12:20:35.02456=MY-ACCEPTOR-SERVICE11=0.6778603840554897Client115=EUR38=500000040=254=155=EUR/USD59=010=189
+20200422-12:20:35: Reject sent for Message 5: Required tag missing, field=60:60
+20200422-12:20:45: Rejecting invalid message: quickfix.FieldException: Required tag missing, field=60: 8=FIX.4.49=15535=D34=749=MY-INITIATOR-CLIENT152=20200422-12:20:45.02656=MY-ACCEPTOR-SERVICE11=0.9668673655650828Client115=EUR38=500000040=254=155=EUR/USD59=010=197
+20200422-12:20:45: Reject sent for Message 7: Required tag missing, field=60:60
+20200422-12:20:48: Sent test request TEST
+20200422-12:20:55: Rejecting invalid message: quickfix.FieldException: Required tag missing, field=60: 8=FIX.4.49=15635=D34=1049=MY-INITIATOR-CLIENT152=20200422-12:20:55.02756=MY-ACCEPTOR-SERVICE11=0.6693470583021763Client115=EUR38=500000040=254=155=EUR/USD59=010=222
+20200422-12:20:55: Reject sent for Message 10: Required tag missing, field=60:60
+20200422-12:21:05: Rejecting invalid message: quickfix.FieldException: Required tag missing, field=60: 8=FIX.4.49=15635=D34=1249=MY-INITIATOR-CLIENT152=20200422-12:21:05.02856=MY-ACCEPTOR-SERVICE11=0.9136257561357699Client115=EUR38=500000040=254=155=EUR/USD59=010=235
+20200422-12:21:05: Reject sent for Message 12: Required tag missing, field=60:60
+20200422-12:21:05: Disconnecting: Encountered END_OF_STREAM
+20200422-12:22:40: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:50566
+20200422-12:22:40: Acceptor heartbeat set to 30 seconds
+20200422-12:22:40: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200422-12:22:46: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:50588
+20200422-12:22:46: Acceptor heartbeat set to 5 seconds
+20200422-12:22:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200422-12:22:46: Received logon
+20200422-12:22:46: Responding to Logon request
+20200422-12:22:50: Reject sent for Message 2: Unsupported Message Type
+20200422-12:23:00: Reject sent for Message 4: Unsupported Message Type
+20200422-12:23:10: Reject sent for Message 6: Unsupported Message Type
+20200422-12:23:20: Reject sent for Message 8: Unsupported Message Type
+20200422-12:23:30: Reject sent for Message 10: Unsupported Message Type
+20200422-12:23:30: Disconnecting: Encountered END_OF_STREAM
+20200423-06:05:53: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-06:05:53: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-06:06:30: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-06:06:30: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-06:06:38: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61271
+20200423-06:06:38: Acceptor heartbeat set to 30 seconds
+20200423-06:06:38: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-06:06:44: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61294
+20200423-06:06:44: Acceptor heartbeat set to 5 seconds
+20200423-06:06:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-06:06:44: Received logon
+20200423-06:06:44: Responding to Logon request
+20200423-06:06:48: Reject sent for Message 2: Unsupported Message Type
+20200423-06:06:58: Reject sent for Message 4: Unsupported Message Type
+20200423-06:07:08: Reject sent for Message 6: Unsupported Message Type
+20200423-06:07:18: Reject sent for Message 8: Unsupported Message Type
+20200423-06:07:28: Reject sent for Message 10: Unsupported Message Type
+20200423-06:07:28: Disconnecting: Encountered END_OF_STREAM
+20200423-06:11:02: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-06:11:02: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-06:11:25: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61437
+20200423-06:11:25: Acceptor heartbeat set to 30 seconds
+20200423-06:11:25: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-06:11:31: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61459
+20200423-06:11:31: Acceptor heartbeat set to 5 seconds
+20200423-06:11:31: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-06:11:31: Received logon
+20200423-06:11:31: Responding to Logon request
+20200423-06:11:35: Reject sent for Message 2: Unsupported Message Type
+20200423-06:11:45: Reject sent for Message 4: Unsupported Message Type
+20200423-06:11:55: Reject sent for Message 6: Unsupported Message Type
+20200423-06:12:05: Reject sent for Message 8: Unsupported Message Type
+20200423-06:12:15: Reject sent for Message 10: Unsupported Message Type
+20200423-06:12:15: Disconnecting: Encountered END_OF_STREAM
+20200423-07:03:31: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-07:03:31: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-07:03:42: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61703
+20200423-07:03:42: Acceptor heartbeat set to 30 seconds
+20200423-07:03:42: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:04:59: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-07:04:59: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-07:05:08: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61812
+20200423-07:05:08: Acceptor heartbeat set to 30 seconds
+20200423-07:05:08: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:05:14: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61835
+20200423-07:05:14: Acceptor heartbeat set to 5 seconds
+20200423-07:05:14: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-07:05:14: Received logon
+20200423-07:05:14: Responding to Logon request
+20200423-07:05:18: Reject sent for Message 2: Unsupported Message Type
+20200423-07:05:28: Reject sent for Message 4: Unsupported Message Type
+20200423-07:05:38: Reject sent for Message 6: Unsupported Message Type
+20200423-07:05:48: Disconnecting: Encountered END_OF_STREAM
+20200423-07:06:19: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61883
+20200423-07:06:19: Acceptor heartbeat set to 30 seconds
+20200423-07:06:19: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:06:37: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61915
+20200423-07:06:37: Acceptor heartbeat set to 30 seconds
+20200423-07:06:37: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:07:02: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61949
+20200423-07:07:02: Acceptor heartbeat set to 30 seconds
+20200423-07:07:02: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:07:08: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61973
+20200423-07:07:08: Acceptor heartbeat set to 5 seconds
+20200423-07:07:08: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-07:07:08: Received logon
+20200423-07:07:08: Responding to Logon request
+20200423-07:07:12: Reject sent for Message 2: Unsupported Message Type
+20200423-07:07:22: Reject sent for Message 4: Unsupported Message Type
+20200423-07:07:32: Reject sent for Message 6: Unsupported Message Type
+20200423-07:07:42: Disconnecting: Encountered END_OF_STREAM
+20200423-07:11:31: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-07:11:31: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-07:11:37: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:62108
+20200423-07:11:37: Acceptor heartbeat set to 30 seconds
+20200423-07:11:37: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:11:43: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:62131
+20200423-07:11:43: Acceptor heartbeat set to 5 seconds
+20200423-07:11:43: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-07:11:43: Received logon
+20200423-07:11:43: Responding to Logon request
+20200423-07:11:47: Reject sent for Message 2: Unsupported Message Type
+20200423-07:11:47: Reject sent for Message 3: Unsupported Message Type
+20200423-07:11:47: Reject sent for Message 4: Unsupported Message Type
+20200423-07:11:47: Reject sent for Message 5: Unsupported Message Type
+20200423-07:11:47: Disconnecting: Encountered END_OF_STREAM
+20200423-07:27:32: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-07:27:32: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-07:27:36: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:60543
+20200423-07:27:36: Acceptor heartbeat set to 30 seconds
+20200423-07:27:36: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:27:42: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:60565
+20200423-07:27:42: Acceptor heartbeat set to 5 seconds
+20200423-07:27:42: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-07:27:42: Received logon
+20200423-07:27:42: Responding to Logon request
+20200423-07:27:43: Reject sent for Message 2: Unsupported Message Type
+20200423-07:27:43: Reject sent for Message 3: Unsupported Message Type
+20200423-07:27:43: Reject sent for Message 4: Unsupported Message Type
+20200423-07:27:43: Reject sent for Message 5: Unsupported Message Type
+20200423-07:27:43: Disconnecting: Encountered END_OF_STREAM
+20200423-07:46:50: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-07:46:50: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-07:47:06: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57346
+20200423-07:47:06: Acceptor heartbeat set to 30 seconds
+20200423-07:47:06: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:47:12: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57369
+20200423-07:47:12: Acceptor heartbeat set to 5 seconds
+20200423-07:47:12: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-07:47:12: Received logon
+20200423-07:47:12: Responding to Logon request
+20200423-07:47:17: Disconnecting: Socket exception (/127.0.0.1:57369): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-07:47:28: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57400
+20200423-07:47:28: Acceptor heartbeat set to 30 seconds
+20200423-07:47:28: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-07:47:34: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57422
+20200423-07:47:34: Acceptor heartbeat set to 5 seconds
+20200423-07:47:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-07:47:34: Received logon
+20200423-07:47:34: Responding to Logon request
+20200423-07:47:58: Disconnecting: Socket exception (/127.0.0.1:57422): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-08:50:18: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61034
+20200423-08:50:18: Acceptor heartbeat set to 30 seconds
+20200423-08:50:18: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-08:51:06: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61092
+20200423-08:51:06: Acceptor heartbeat set to 30 seconds
+20200423-08:51:06: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-08:51:54: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61151
+20200423-08:51:54: Acceptor heartbeat set to 30 seconds
+20200423-08:51:54: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-08:52:10: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61175
+20200423-08:52:10: Acceptor heartbeat set to 5 seconds
+20200423-08:52:10: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-08:52:10: Received logon
+20200423-08:52:10: Responding to Logon request
+20200423-08:52:19: Sent test request TEST
+20200423-08:52:23: Disconnecting: Timed out waiting for heartbeat
+20200423-08:52:44: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61205
+20200423-08:52:44: Acceptor heartbeat set to 5 seconds
+20200423-08:52:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-08:52:44: Received logon
+20200423-08:52:44: Responding to Logon request
+20200423-08:53:00: Disconnecting: Socket exception (/127.0.0.1:61205): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-08:53:54: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61252
+20200423-08:53:54: Acceptor heartbeat set to 30 seconds
+20200423-08:53:54: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-08:54:03: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61274
+20200423-08:54:03: Acceptor heartbeat set to 5 seconds
+20200423-08:54:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-08:54:03: Received logon
+20200423-08:54:03: Responding to Logon request
+20200423-08:54:08: Disconnecting: Socket exception (/127.0.0.1:61274): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-08:56:27: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61337
+20200423-08:56:27: Acceptor heartbeat set to 30 seconds
+20200423-08:56:27: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-08:56:39: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61362
+20200423-08:56:39: Acceptor heartbeat set to 5 seconds
+20200423-08:56:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-08:56:39: Received logon
+20200423-08:56:39: Responding to Logon request
+20200423-08:56:47: Sent test request TEST
+20200423-08:56:52: Disconnecting: Timed out waiting for heartbeat
+20200423-08:57:19: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61401
+20200423-08:57:19: Acceptor heartbeat set to 30 seconds
+20200423-08:57:19: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-08:57:25: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61423
+20200423-08:57:25: Acceptor heartbeat set to 5 seconds
+20200423-08:57:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-08:57:25: Received logon
+20200423-08:57:25: Responding to Logon request
+20200423-08:57:45: Disconnecting: Socket exception (/127.0.0.1:61423): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-08:59:12: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61482
+20200423-08:59:12: Acceptor heartbeat set to 30 seconds
+20200423-08:59:12: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-08:59:18: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:61505
+20200423-08:59:18: Acceptor heartbeat set to 5 seconds
+20200423-08:59:18: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-08:59:18: Received logon
+20200423-08:59:18: Responding to Logon request
+20200423-08:59:42: Disconnecting: Socket exception (/127.0.0.1:61505): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:07:15: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:60184
+20200423-09:07:15: Acceptor heartbeat set to 30 seconds
+20200423-09:07:15: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:07:21: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:60206
+20200423-09:07:21: Acceptor heartbeat set to 5 seconds
+20200423-09:07:21: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:07:21: Received logon
+20200423-09:07:21: Responding to Logon request
+20200423-09:07:31: Disconnecting: Socket exception (/127.0.0.1:60206): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:08:09: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:60245
+20200423-09:08:09: Acceptor heartbeat set to 30 seconds
+20200423-09:08:09: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:08:15: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:60267
+20200423-09:08:15: Acceptor heartbeat set to 5 seconds
+20200423-09:08:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:08:15: Received logon
+20200423-09:08:15: Responding to Logon request
+20200423-09:08:19: Disconnecting: Socket exception (/127.0.0.1:60267): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:12:10: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57053
+20200423-09:12:10: Acceptor heartbeat set to 30 seconds
+20200423-09:12:10: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:12:16: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57075
+20200423-09:12:16: Acceptor heartbeat set to 5 seconds
+20200423-09:12:16: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:12:16: Received logon
+20200423-09:12:16: Responding to Logon request
+20200423-09:12:24: Disconnecting: Socket exception (/127.0.0.1:57075): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:13:52: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57127
+20200423-09:13:52: Acceptor heartbeat set to 30 seconds
+20200423-09:13:52: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:13:58: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57149
+20200423-09:13:58: Acceptor heartbeat set to 5 seconds
+20200423-09:13:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:13:58: Received logon
+20200423-09:13:58: Responding to Logon request
+20200423-09:13:59: Disconnecting: Socket exception (/127.0.0.1:57149): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:29:49: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57857
+20200423-09:29:49: Acceptor heartbeat set to 30 seconds
+20200423-09:29:49: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:30:34: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57915
+20200423-09:30:34: Acceptor heartbeat set to 30 seconds
+20200423-09:30:34: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:30:40: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57937
+20200423-09:30:40: Acceptor heartbeat set to 5 seconds
+20200423-09:30:40: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:30:40: Received logon
+20200423-09:30:40: Responding to Logon request
+20200423-09:31:07: Disconnecting: Socket exception (/127.0.0.1:57937): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:31:54: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:57985
+20200423-09:31:54: Acceptor heartbeat set to 30 seconds
+20200423-09:31:54: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:32:00: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:58007
+20200423-09:32:00: Acceptor heartbeat set to 5 seconds
+20200423-09:32:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:32:00: Received logon
+20200423-09:32:00: Responding to Logon request
+20200423-09:32:10: Disconnecting: Socket exception (/127.0.0.1:58007): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:44:35: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:58850
+20200423-09:44:35: Acceptor heartbeat set to 30 seconds
+20200423-09:44:35: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:44:41: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:58873
+20200423-09:44:41: Acceptor heartbeat set to 5 seconds
+20200423-09:44:41: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:44:41: Received logon
+20200423-09:44:41: Responding to Logon request
+20200423-09:44:53: Disconnecting: Socket exception (/127.0.0.1:58873): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:55:49: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200423-09:55:49: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200423-09:55:59: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59308
+20200423-09:55:59: Acceptor heartbeat set to 30 seconds
+20200423-09:55:59: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:56:05: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59330
+20200423-09:56:05: Acceptor heartbeat set to 5 seconds
+20200423-09:56:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:56:05: Received logon
+20200423-09:56:05: Responding to Logon request
+20200423-09:56:08: Reject sent for Message 2: Unsupported Message Type
+20200423-09:56:08: Reject sent for Message 3: Unsupported Message Type
+20200423-09:56:08: Reject sent for Message 4: Unsupported Message Type
+20200423-09:56:55: Disconnecting: Socket exception (/127.0.0.1:59330): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:57:17: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59375
+20200423-09:57:17: Acceptor heartbeat set to 30 seconds
+20200423-09:57:17: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:57:23: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59397
+20200423-09:57:23: Acceptor heartbeat set to 5 seconds
+20200423-09:57:23: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:57:23: Received logon
+20200423-09:57:23: Responding to Logon request
+20200423-09:57:36: Sent test request TEST
+20200423-09:57:41: Disconnecting: Timed out waiting for heartbeat
+20200423-09:57:45: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59426
+20200423-09:57:45: Acceptor heartbeat set to 5 seconds
+20200423-09:57:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:57:45: Received logon
+20200423-09:57:45: Responding to Logon request
+20200423-09:58:10: Sent test request TEST
+20200423-09:58:15: Disconnecting: Timed out waiting for heartbeat
+20200423-09:58:52: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59466
+20200423-09:58:52: Acceptor heartbeat set to 5 seconds
+20200423-09:58:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:58:52: Received logon
+20200423-09:58:52: Responding to Logon request
+20200423-09:58:53: Disconnecting: Socket exception (/127.0.0.1:59466): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200423-09:59:36: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59509
+20200423-09:59:36: Acceptor heartbeat set to 30 seconds
+20200423-09:59:36: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200423-09:59:50: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:59532
+20200423-09:59:50: Acceptor heartbeat set to 5 seconds
+20200423-09:59:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200423-09:59:50: Received logon
+20200423-09:59:50: Responding to Logon request
+20200423-09:59:50: Reject sent for Message 2: Unsupported Message Type
+20200423-09:59:50: Reject sent for Message 3: Unsupported Message Type
+20200423-09:59:50: Reject sent for Message 4: Unsupported Message Type
+20200423-09:59:50: Reject sent for Message 5: Unsupported Message Type
+20200423-10:00:15: Disconnecting: Socket exception (/127.0.0.1:59532): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200507-08:57:40: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200507-08:57:40: Session state is not current; resetting FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200507-08:57:40: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200507-08:57:59: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63698
+20200507-08:57:59: Acceptor heartbeat set to 30 seconds
+20200507-08:57:59: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200507-08:58:05: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63720
+20200507-08:58:05: Acceptor heartbeat set to 5 seconds
+20200507-08:58:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200507-08:58:05: Received logon
+20200507-08:58:05: Responding to Logon request
+20200507-08:58:20: Disconnecting: Socket exception (/127.0.0.1:63720): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200507-09:00:22: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63785
+20200507-09:00:22: Acceptor heartbeat set to 30 seconds
+20200507-09:00:22: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200507-09:00:28: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63807
+20200507-09:00:28: Acceptor heartbeat set to 5 seconds
+20200507-09:00:28: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200507-09:00:28: Received logon
+20200507-09:00:28: Responding to Logon request
+20200507-09:00:39: Disconnecting: Socket exception (/127.0.0.1:63807): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200507-09:01:37: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63851
+20200507-09:01:37: Acceptor heartbeat set to 30 seconds
+20200507-09:01:37: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200507-09:01:43: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63873
+20200507-09:01:43: Acceptor heartbeat set to 5 seconds
+20200507-09:01:43: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200507-09:01:43: Received logon
+20200507-09:01:43: Responding to Logon request
+20200507-09:02:00: Disconnecting: Socket exception (/127.0.0.1:63873): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200507-09:03:46: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63932
+20200507-09:03:46: Acceptor heartbeat set to 30 seconds
+20200507-09:03:46: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200507-09:03:52: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:63954
+20200507-09:03:52: Acceptor heartbeat set to 5 seconds
+20200507-09:03:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200507-09:03:52: Received logon
+20200507-09:03:52: Responding to Logon request
+20200507-09:04:13: Disconnecting: Socket exception (/127.0.0.1:63954): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200507-09:11:19: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:55909
+20200507-09:11:19: Acceptor heartbeat set to 30 seconds
+20200507-09:11:19: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200507-09:11:25: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:55931
+20200507-09:11:25: Acceptor heartbeat set to 5 seconds
+20200507-09:11:25: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200507-09:11:25: Received logon
+20200507-09:11:25: Responding to Logon request
+20200507-09:11:40: Disconnecting: Socket exception (/127.0.0.1:55931): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200507-09:34:44: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200507-09:34:44: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20200507-09:34:56: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:51817
+20200507-09:34:56: Acceptor heartbeat set to 30 seconds
+20200507-09:34:57: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200507-09:35:02: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:51840
+20200507-09:35:02: Acceptor heartbeat set to 5 seconds
+20200507-09:35:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200507-09:35:02: Received logon
+20200507-09:35:02: Responding to Logon request
+20200507-09:35:22: Disconnecting: Socket exception (/127.0.0.1:51840): java.io.IOException: An existing connection was forcibly closed by the remote host
+20200507-09:35:47: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:51879
+20200507-09:35:47: Acceptor heartbeat set to 30 seconds
+20200507-09:35:47: Disconnecting: Invalid Logon message: Required tag missing, field=98
+20200507-09:35:53: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:51901
+20200507-09:35:53: Acceptor heartbeat set to 5 seconds
+20200507-09:35:53: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200507-09:35:53: Received logon
+20200507-09:35:53: Responding to Logon request
+20200507-09:36:07: Reject sent for Message 4: Unsupported Message Type
+20200507-09:36:07: Reject sent for Message 5: Unsupported Message Type
+20200507-09:36:07: Reject sent for Message 6: Unsupported Message Type
+20200507-09:36:07: Reject sent for Message 7: Unsupported Message Type
